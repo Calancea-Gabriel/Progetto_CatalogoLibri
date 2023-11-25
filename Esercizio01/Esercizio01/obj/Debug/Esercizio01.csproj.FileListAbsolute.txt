@@ -1,0 +1,73 @@
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe.config
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\bin\Debug\Esercizio01.pdb
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.AssemblyReference.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.SuggestedBindingRedirects.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Form1.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Properties.Resources.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.GenerateResource.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.CoreCompileInputs.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.pdb
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmReparti.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe.config
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\bin\Debug\Esercizio01.pdb
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csprojAssemblyReference.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Form1.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmReparti.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Properties.Resources.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.GenerateResource.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe
+C:\Users\giampaolo.maggiore\Desktop\5A\Info\Esercizio01\Esercizio01\obj\Debug\Esercizio01.pdb
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe.config
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\bin\Debug\Esercizio01.pdb
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.AssemblyReference.cache
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Form1.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmReparti.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Properties.Resources.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.GenerateResource.cache
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.CoreCompileInputs.cache
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.pdb
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmOfferte.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe.config
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\bin\Debug\Esercizio01.pdb
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.AssemblyReference.cache
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Form1.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmAutori.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmOfferte.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmReparti.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Properties.Resources.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.GenerateResource.cache
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.CoreCompileInputs.cache
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.pdb
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmNuovoLibro.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmRicercaByOfferta.resources
+C:\Users\UTENTE\Desktop\Scuola\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmRicercaByReparto.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmAutori.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmNuovoLibro.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmRicercaByOfferta.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmRicercaByReparto.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.AssemblyReference.cache
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Form1.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmAutori.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmNuovoLibro.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmOfferte.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmReparti.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmRicercaByOfferta.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmRicercaByReparto.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Properties.Resources.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.GenerateResource.cache
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.CoreCompileInputs.cache
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.pdb
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe.config
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\bin\Debug\Esercizio01.pdb
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmEditori.resources
+C:\Users\calan\Desktop\Scuola\5A inf\Informatica\sql\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmEditori.resources
+C:\Users\calan\Desktop\5A inf\Informatica\Esercizio01\Esercizio01\obj\Debug\Esercizio01.frmInfo.resources
